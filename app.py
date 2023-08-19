@@ -149,7 +149,7 @@ def update_new_path():
     return st.session_state["new_path"]
 
 
-st.session_state["font_size"] = "24"
+st.session_state["font_size"] = "16"
 st.session_state["color_1"] = "#0088ff"
 st.session_state["color_2"] = "#ff8800"
 
